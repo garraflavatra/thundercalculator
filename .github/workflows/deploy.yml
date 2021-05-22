@@ -14,9 +14,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Nuxt to Github Pages
-        # You may pin to the exact commit or the version.
-        # uses: ashkantaravati/NuxtToGithubPages@1d3040411fc2d234b6907434dc8560100171e3fb
-        uses: ashkantaravati/NuxtToGithubPages@v1.0
+        uses: garraflavatra/nuxt-gh-pages-yarn
         with:
           # Your username
           username: garraflavatra
