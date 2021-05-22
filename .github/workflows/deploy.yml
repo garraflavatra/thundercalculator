@@ -29,4 +29,4 @@ jobs:
           # Your git commit message
           gitmsg: Deploy
           # Your custom domain
-          cname: # optional, default is none
+          cname: thundercalc.romeinvanburen.nl
