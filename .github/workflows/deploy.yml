@@ -23,10 +23,10 @@ jobs:
           # Your Github token
           token: ${{ secrets.GITHUB_TOKEN }}
           # Your git commit email
-          gitemail: # optional, default is CI@example.com
+          gitemail: romein@vburen.eu
           # Your git commit name
-          gitname: # optional, default is CI
+          gitname: Romein van Buren
           # Your git commit message
-          gitmsg: # optional, default is deploy
+          gitmsg: Deploy
           # Your custom domain
           cname: # optional, default is none
