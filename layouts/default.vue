@@ -10,7 +10,7 @@
           <div class="container">
             <ul>
               <li>
-                <a href="https://github.com/garraflavatra/thundercalculator">
+                <a href="https://github.com/garraflavatra/thundercalculator-vue">
                   <span class="icon is-small">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"

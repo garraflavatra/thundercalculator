@@ -1,6 +1,6 @@
 # Thunder Calculator
 [![Webapp](https://img.shields.io/badge/webapp-here-blue)][webapp]
-![MIT License](https://img.shields.io/github/license/garraflavatra/thundercalculator) 
+![MIT License](https://img.shields.io/github/license/garraflavatra/thundercalculator-vue) 
 
 This [webapp] calculates the how far you are away from the thunder.
 
@@ -31,4 +31,4 @@ $ yarn generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 
-[webapp]: https://garraflavatra.github.io/thundercalculator/
+[webapp]: https://garraflavatra.github.io/thundercalculator-vue/

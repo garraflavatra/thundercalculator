@@ -16,17 +16,9 @@ jobs:
       - name: Nuxt to Github Pages
         uses: garraflavatra/nuxt-gh-pages-yarn@1.1.2
         with:
-          # Your username
           username: garraflavatra
-          # Your reponame
-          reponame: thundercalculator
-          # Your Github token
+          reponame: thundercalculator-vue
           token: ${{ secrets.GITHUB_TOKEN }}
-          # Your git commit email
           gitemail: romein@vburen.eu
-          # Your git commit name
           gitname: Romein van Buren
-          # Your git commit message
           gitmsg: Deploy
-          # Your custom domain
-          cname: thundercalc.romeinvanburen.nl
